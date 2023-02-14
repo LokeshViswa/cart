@@ -5,4 +5,4 @@ env.app_lang = "nodejs"
 
 ci()
 
-// Tests Mai
+// Tests Main
